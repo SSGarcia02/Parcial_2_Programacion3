@@ -1,2 +1,4 @@
 Línea 8: A,A,2,1 | origen y destino iguales
 Línea 9: A,B,9,7 | duplicado
+Línea 10: B,B,9,7 | origen y destino iguales
+Línea 11: A,C,5,5 | duplicado

@@ -1,0 +1,8 @@
+=== RESUMEN DE REGIONES ===
+Total de regiones: 4
+
+Mayor área (5):
+ - Región 3 (Símbolo: C)
+
+Mayor perímetro (12):
+ - Región 3 (Símbolo: C)
